@@ -1,0 +1,3 @@
+https://t.me/example_channel_one
+https://t.me/example_channel_two
+https://t.me/example_channel_three
